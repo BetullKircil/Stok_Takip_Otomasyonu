@@ -1,0 +1,1 @@
+# Stok_Takip_Otomasyonu
